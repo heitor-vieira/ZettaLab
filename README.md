@@ -54,4 +54,3 @@ A tabela de disparidade agregada (disponível na seção inicial do Notebook) re
 
 * **Agentes de Impacto Negativo:** A **Insegurança Alimentar** (Razão 2.18) e a **Pobreza** (Razão 1.39) são os fenômenos que mais marcam a desigualdade regional, exigindo foco imediato de políticas públicas.
 * **Contraste Estrutural:** A análise visual (gráficos IVS e Pobreza) mostra que, embora ambas as regiões tenham sofrido o impacto da crise em 2020/2021, o Nordeste começa e se mantém em um patamar de vulnerabilidade ($28.5\%$ maior) e investimento social ($103.8\%$ maior) que reflete a necessidade de estratégias específicas e sustentáveis.
-* *
