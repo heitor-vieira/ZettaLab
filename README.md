@@ -12,9 +12,9 @@ Para tal, o estudo se concentrou em uma **análise comparativa detalhada** entre
 
 > Como poderíamos avaliar e prever/visualizar os agentes/fenômenos que mais causam impactos socioeconômicos no Brasil?
 
-### Resposta (Etapa 1: Avaliação e Visualização):
+### Resposta direta:
 
-A avaliação inicial (análise exploratória) demonstra que os fenômenos de maior impacto negativo (Insegurança Alimentar e Pobreza) se manifestam de forma desproporcional no Nordeste. O Sudeste, embora enfrente desafios de pobreza em números absolutos, mantém uma vantagem estrutural significativa em desenvolvimento humano (Educação) e menor vulnerabilidade.
+Resumidamente, através de dados bem tratados, como feito de forma suscinta nesse trabalho, torna-se possível visualizar e evidenciar a forma como cada um dos marcadores analisados (e vários outros que também poderiam ter sido levados em conta) impactam na situação socioeconômica do país e suas regiões, possibilitando previsões robustas e com embasamento técnico. 
 
 ---
 
